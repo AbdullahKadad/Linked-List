@@ -94,4 +94,5 @@ if __name__ == "__main__":
     print("Length of linked list:", len(ll))
     print("Linked list:", ll)
     print("Element at index 2:", ll[2])
-    print("Element at index 2:", ll[3])
+    print("Element at index 3:", ll[3])
+    print("Element at index 1:", ll[1])
